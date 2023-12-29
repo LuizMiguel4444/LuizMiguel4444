@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
 </h1>
 
 <h3 align="left">👩‍💻  Sobre mim: </h3>
