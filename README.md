@@ -1,9 +1,9 @@
-<h1 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=3000&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
 </h1>
 
-<h3 align="left">👩‍💻  Sobre mim: </h3>
-<p align="left">- 🥷 Sou desenvolvedor de software.<br><br>- 🔭 Estudo na Universidade Federal do Rio Grande do Norte (UFRN).<br><br>- 💻 Faço o curso de Bacharelado em Sistemas de Informação.<br><br>- 📚 Atualmente estou aprendendo Python.<br></p>
+<h3 align="center">👩‍💻  Sobre mim: </h3>
+<p align="center">- 🥷 Sou desenvolvedor de software.<br><br>- 🔭 Estudo na Universidade Federal do Rio Grande do Norte (UFRN).<br><br>- 💻 Faço o curso de Bacharelado em Sistemas de Informação.<br><br>- 📚 Atualmente estou aprendendo Python.<br></p>
 
 ##
 <h3 align="left">🔥 Minhas Estatísticas: </h3>
