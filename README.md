@@ -3,7 +3,6 @@
 </h1>
 
 ##
-<h3 align="left">👩‍💻  Sobre mim: </h3>
 <p align="center">- 🥷 Sou desenvolvedor de software.<br><br>- 🔭 Estudo na Universidade Federal do Rio Grande do Norte (UFRN).<br><br>- 💻 Faço o curso de Bacharelado em Sistemas de Informação.<br><br>- 📚 Atualmente estou aprendendo Python.</p>
 
 ##
