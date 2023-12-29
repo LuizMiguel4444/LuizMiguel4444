@@ -25,7 +25,7 @@
 </div>
 
 ##  
-<h3 align="left">📞 Contatos: </h3>
+<h3 align="left">📞 Meus Contatos: </h3>
 <div align="center">   
     <a href="https://instagram.com/luiz__miguel10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="http://luizmiguel4444@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
