@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
 </h1>
 
 <h3 align="left">👩‍💻  Sobre mim: </h3>
@@ -32,6 +32,6 @@
   <a href="https://www.linkedin.com/in/luiz-miguel-santos-silva-63a77b269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/LuizMiguel4444/LuizMiguel4444/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuizMiguel4444/LuizMiguel4444/blob/output/github-contribution-grid-snake.svg)
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuizMiguel4444&repo=LuizMiguel4444&theme=react)](https://github.com/LuizMiguel4444/LuizMiguel4444)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuizMiguel4444&repo=LuizMiguel4444&theme=react)](https://github.com/LuizMiguel4444/LuizMiguel4444)
