@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!!!+👋;+Seja+bem+vindo+ao+meu+perfil!;" />
 </h1>
 
-<p align="center">- 🥷 Sou desenvolvedor de software.<br><br>- 🔭 Estudo na Universidade Federal do Rio Grande do Norte (UFRN).<br><br>- 💻 Faço o curso de Bacharelado em Sistemas de Informação.<br><br>- 📚 Atualmente estou aprendendo Python.</p>
+<p align="center">- 🥷 Desenvolvedor de Software.<br><br>- 🔭 Estudo na Universidade Federal do Rio Grande do Norte (UFRN).<br><br>- 💻 Faço o curso de Bacharelado em Sistemas de Informação.<br><br>- 📚 Atualmente estou me aprofundando em Python.</p>
 
 ##
 <h3 align="left">🔥 Minhas Estatísticas: </h3>
